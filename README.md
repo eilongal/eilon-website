@@ -1,2 +1,2 @@
-# eilon-website
+# Personal Website
 Personal showcase website
